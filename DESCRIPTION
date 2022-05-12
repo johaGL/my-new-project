@@ -1,0 +1,14 @@
+
+
+
+Package: my-new-project
+Title: My New Project
+Version: 0.1
+Authors@R:
+    person(Edgar, Lefevre, , EdgarLefevre@gmail.com, role = c("aut", "cre"))
+Description: My new project description (can be edited later)
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports:
